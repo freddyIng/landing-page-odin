@@ -78,3 +78,21 @@
 	border-width: 5px;
 	border-radius: 10px;
 }
+
+#quote-section{
+	background-color: #E5E7EB;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#quote-text{
+	font-size: 36px;
+	color: #1F2937;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+#quote-author{
+	align-self: flex-end;
+}
