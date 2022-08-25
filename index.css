@@ -96,3 +96,29 @@
 #quote-author{
 	align-self: flex-end;
 }
+
+#sign-up-section{
+	display: flex;
+	justify-content: center;
+	background-color: #3882F6;
+	color: white;
+	align-items: center;
+	column-gap: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#sign-up-section-text{
+	display: flex;
+	flex-direction: column;
+}
+
+#footer{
+	background-color: #1F2937;
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+
