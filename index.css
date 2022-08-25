@@ -46,6 +46,12 @@
 	width: 100px;
 }
 
+#image-placeholder{
+	background-color: gray;
+	width: 400px;
+	height: 200px;
+}
+
 #content{
 	display: flex;
 	flex-direction: column;
