@@ -64,6 +64,12 @@
 	column-gap: 50px;
 }
 
+.card-container{
+	display: flex;
+	flex-direction: column;
+	width: 200px;
+}
+
 .card{
 	width: 200px;
 	height: 200px;
